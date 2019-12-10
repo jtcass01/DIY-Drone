@@ -13,5 +13,16 @@ Over my Christmas break I have decided to build a drone from parts.  This Repo w
 * SD Card - [Kingston Canvas Select 32GB microSDHC Class 10 microSD Memory Card UHS-I 80MB/s R Flash Memory Card with Adapter (SDCS/32GB)](https://www.amazon.com/dp/B079GTYCW4/?coliid=I27XS6A8O1QLJS&colid=3BXDQII4IRZH1&psc=1&ref_=lv_ov_lig_dp_it) $4.95
 * Battery - [GOLDBAT 3S 11.1V 3000mAh 30C Lipo Battery with Dean-Style T Connector and XT60 Connector for RC Car Airplane Helicopter Boat Drone FPV and Quadcopter Remote Control Toys](https://www.amazon.com/dp/B07LGZ3TVM/?coliid=I22NTYRSGGSFSE&colid=3BXDQII4IRZH1&psc=1&ref_=lv_ov_lig_dp_it) $22.99
 * Battery Charger - [HOBBYMATE Imax B6 Clone Lipo Battery Balance Charger, Rc Hobby Battery Balance Charger LED W/ AC Power Adapter](https://www.amazon.com/dp/B01NB9A36R/?coliid=I1KC117NRYRDYS&colid=3BXDQII4IRZH1&psc=1&ref_=lv_ov_lig_dp_it) $34.90
-
+| Microcomputer     |   |   |
+|-------------------|---|---|
+| Flight Controller |   |   |
+| Camera            |   |   |
+| Frame             |   |   |
+| Motors            |   |   |
+| Props             |   |   |
+| Telemetry         |   |   |
+| PPM Encoder       |   |   |
+| SD Card           |   |   |
+| Battery           |   |   |
+| Battery Charger   |   |   |
 ### Total Cost: $455.27
