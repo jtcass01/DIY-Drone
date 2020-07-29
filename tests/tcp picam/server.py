@@ -18,7 +18,6 @@ if __name__ == "__main__":
 
     while True:
         (rpiName, frame) = image_hub.recv_image()
-        print(rpiName, frame)
         image_hub.send_reply(b'OK')
 
         if rpiName not in last_active.keys():
