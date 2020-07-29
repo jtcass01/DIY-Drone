@@ -19,7 +19,7 @@ if __name__ == "__main__":
 
     rpiName = socket.gethostname()
 
-    vs = VideoStream(usePiCamera=True)
+    vs = VideoStream(usePiCamera=True).start()
 
     time.sleep(2.0)
 
