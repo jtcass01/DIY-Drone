@@ -1,5 +1,5 @@
 # DIY-Drone
-Over my Christmas break I have decided to build a drone from parts.  This Repo will likely involve overtime as I better understand what I want to do with the drone.  My first idea is write an object following algorithm.  I'd also like to replace the Navio2 with controllers that I design.  I can't afford a physical controller right now.  I hope to simulate one with a computer.
+Over my Christmas break I have decided to build a drone from parts.  This Repo will likely evolve overtime as I better understand what I want to do with the drone.  My first idea is write an object following algorithm.  I'd also like to replace the Navio2 with controllers that I design.  I can't afford a physical controller right now.  I hope to simulate one with a computer.
 
 ## Parts and Current Costs
 
